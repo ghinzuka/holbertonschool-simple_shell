@@ -127,7 +127,7 @@ It's project for Holberton School France at Bordeaux.
 Thanks for the contribution and help for this project.
 
 - [[@MatthieuGrauleau](https://github.com/MatthieuGrauleau)]
-- [[@ghinzuka](https://github.com/ghinzuka)]
+- [[@ghinzuka](https://github.com/ghinzuka)] POUQUEROU BAPTISTE
 - [[@Goliath33](https://github.com/Goliath33)]
 
 # COPYRIGHT : 
@@ -137,7 +137,7 @@ MIT License
 Copyright (c) [2024]    
 
 - [[@MatthieuGrauleau](https://github.com/MatthieuGrauleau)]
-- [[@ghinzuka](https://github.com/ghinzuka)]
+- [[@ghinzuka](https://github.com/ghinzuka)] POUQUEROU BAPTISTE
 - [[@Goliath33](https://github.com/Goliath33)]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
